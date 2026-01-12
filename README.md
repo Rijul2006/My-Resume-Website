@@ -1,19 +1,24 @@
-# My-Resume-Website
+# Personal Resume Website
 Project Overview
+
 This project is a personal resume website developed as a foundational web development exercise. The primary objective was to build a structured, functional document using pure HTML5, focusing on semantic elements and internal page navigation.
 
+
 Technical Implementation
-The website is constructed using standard HTML5. It demonstrates the ability to organize content without external CSS or JavaScript libraries. Key features include:
 
-Document Structure: Use of <header>, <nav>, <section>, and <footer> tags to create a logical document flow.
+The website is constructed using standard HTML5 and demonstrates the ability to organize complex information without external CSS or JavaScript. Key features include:
 
-Navigation: Implementation of an internal menu using anchor tags (<a>) linked to element IDs, allowing for easy jumping between sections.
+Document Structure: Use of header, nav, section, and footer tags to create a logical and accessible document flow.
 
-Layout: Use of HTML tables to align the introductory summary and profile area.
+Navigation System: Implementation of an internal menu using anchor tags <a> linked to specific element IDs for seamless section jumping.
 
-Interactive Components: Use of the <details> and <summary> tags to create an accordion-style FAQ section.
+Data Organization: Use of nested lists and tables to categorize educational history, technical skills, and academic achievements.
 
-File Contents
-index.html: The main source code containing the content, structure, and links for the resume.
+Interactive Elements: Utilization of the details and summary tags to provide a clean, toggle-based FAQ interface.
+
+
+Repository Contents
+
+index.html: The core source code containing the content, structure, and navigation for the resume.
 
 Photo.jpg: The profile image file referenced in the document.
